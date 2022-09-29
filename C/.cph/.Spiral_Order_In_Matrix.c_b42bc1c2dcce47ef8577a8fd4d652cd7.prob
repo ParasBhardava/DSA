@@ -1,0 +1,1 @@
+{"name":"Local: Spiral_Order_In_Matrix","url":"d:\\Programming\\C\\Spiral_Order_In_Matrix.c","tests":[{"id":1631787627571,"input":"3 3\n1 2 3\n5 6 7\n9 10 11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\C\\Spiral_Order_In_Matrix.c","group":"local","local":true}

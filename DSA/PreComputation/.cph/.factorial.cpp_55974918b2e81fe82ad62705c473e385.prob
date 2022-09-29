@@ -1,0 +1,1 @@
+{"name":"Local: factorial","url":"d:\\Programming\\PreComputation\\factorial.cpp","tests":[{"id":1628705331137,"input":"5\n4\n25\n20\n3\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\PreComputation\\factorial.cpp","group":"local","local":true}

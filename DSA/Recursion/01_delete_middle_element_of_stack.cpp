@@ -1,0 +1,45 @@
+#include<iostream>
+#include<stack>
+using namespace std;
+
+void solve(stack<int>&st, int k)
+{
+    if(k == 1)
+    {
+        st.pop();
+        return;
+    }
+
+    int val = st.top();
+    st.pop();
+    solve(st, k-1);
+    st.push(val);
+}
+
+void deleteMiddleElement(stack<int>&st)
+{
+    if(st.size() == 0)
+        return;
+
+    int k = st.size()/2 +1;
+    solve(st, k);    
+}
+
+int main()
+{
+    stack<int>st;
+    st.push(5);
+    st.push(4);
+    st.push(3);
+    st.push(2);
+    st.push(1);
+
+    deleteMiddleElement(st);
+    while(!st.empty())
+    {
+        cout<<st.top()<<" ";
+        st.pop();
+    }
+
+    return 0;
+}

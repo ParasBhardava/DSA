@@ -1,0 +1,1 @@
+{"name":"Local: bipartite_graph_DFS","url":"d:\\Programming\\DSA\\Graph\\bipartite_graph_DFS.cpp","tests":[{"id":1631209103505,"input":"8 8\n1 2\n2 3\n2 4\n3 5\n4 6\n5 7\n6 5\n7 8","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\DSA\\Graph\\bipartite_graph_DFS.cpp","group":"local","local":true}

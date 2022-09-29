@@ -1,0 +1,1 @@
+{"name":"Local: 03_LCA","url":"d:\\Programming\\DSA\\Other_Trees\\1_N-arry_Tree\\03_LCA.cpp","tests":[{"id":1657301363030,"input":"9 \n1 2\n1 3 \n1 4\n2 5\n3 6\n3 7\n3 8\n4 9\n5\n2 4\n3 9\n6 8\n5 7 \n5 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\DSA\\Other_Trees\\1_N-arry_Tree\\03_LCA.cpp","group":"local","local":true}

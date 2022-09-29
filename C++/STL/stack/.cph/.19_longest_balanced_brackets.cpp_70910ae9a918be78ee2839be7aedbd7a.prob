@@ -1,0 +1,1 @@
+{"name":"Local: 19_longest_balanced_brackets","url":"d:\\Programming\\C++\\STL\\stack\\19_longest_balanced_brackets.cpp","tests":[{"id":1660292551941,"input":"16\n1 -1 2 -2 6 4 5 -5 6 7 -7 -6 -4 9 -9 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\C++\\STL\\stack\\19_longest_balanced_brackets.cpp","group":"local","local":true}
